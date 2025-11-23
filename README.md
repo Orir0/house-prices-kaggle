@@ -4,7 +4,7 @@ A machine learning project solving the [House Prices: Advanced Regression Techni
 
 ## Overview
 
-This project implements multiple machine learning models to predict house prices in Ames, Iowa. The solution uses **ensemble methods** that combine multiple weak learners (decision trees) to create robust predictions. The models explored include:
+This project implements multiple machine learning models to predict house prices in Ames, Iowa. The solution uses **ensemble methods** that combine multiple weak learners (decision trees) to create predictions. The models explored include:
 
 - **Random Forest** - An ensemble of decision trees using bagging
 - **AdaBoost** - An ensemble that sequentially trains weak learners, focusing on previous mistakes
